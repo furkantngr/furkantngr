@@ -33,7 +33,7 @@ Afet bölgelerinde arama kurtarma faaliyetlerini hızlandırmak için otonom sü
 
 ### 💼 Deneyim
 
-* **AI Engineer Intern** - *Bize Proje* (Ocak 2026 - Günümüz)
+* **AI Engineer Intern** - *Bize Proje* (Ekim 2025 - Günümüz)
   * LLM ve RAG tabanlı kurumsal çözümler üzerine çalışıyorum.
 * **IT Technician (Part-Time)** - *Uludağ Üniversitesi* (2 Yıl)
   * Donanım sorunları, ağ yönetimi ve sistem kurulumları konusunda teknik destek sağladım.

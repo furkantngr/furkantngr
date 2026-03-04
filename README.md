@@ -40,16 +40,6 @@ Afet bölgelerinde arama kurtarma faaliyetlerini hızlandırmak için otonom sü
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="left">
-<a href="https://github.com/furkantngr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furkantngr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkantngr&layout=compact&theme=radical"/>
-</a>
-</p>
-
----
 
 ### 📫 İletişim
 

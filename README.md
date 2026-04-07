@@ -25,8 +25,8 @@ Afet bölgelerinde arama kurtarma faaliyetlerini hızlandırmak için otonom sü
 * **Odak:** Swarm Intelligence, Otonom Navigasyon
 
 #### 🏎️ Teknofest Finalist Takım Kaptanlıkları
-* **YZT | MEVZUU:** Robotaksi Binek Otonom Araç Kategorisi
-* **YZT | TALOS:** Türkçe Doğal Dil İşleme Yarışması
+* **YZT | TALOS:** Robotaksi Binek Otonom Araç Kategorisi
+* **YZT | MEVZUU:** Türkçe Doğal Dil İşleme Yarışması
 * *Takım yönetimi, teknik liderlik ve proje geliştirme süreçlerini başarıyla yürüttüm.*
 
 ---

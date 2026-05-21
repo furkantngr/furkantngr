@@ -32,7 +32,7 @@ Afet bölgelerinde arama kurtarma faaliyetlerini hızlandırmak için otonom sü
 ---
 
 ### 💼 Deneyim
-* **AI/ML Specialist** - *Bize Proje* (Ekim 2025 - Mayıs 2026)
+* **AI/ML Specialist** - *Bize Proje* (Mayıs 2026 - Günümüz)
   * LLM, Machine Vision, Endüstri 5.0 çözümleri üzerine çalışıyorum
 * **AI Engineer Intern** - *Bize Proje* (Ekim 2025 - Mayıs 2026)
   * LLM ve RAG tabanlı kurumsal çözümler üzerine çalışıyorum.
